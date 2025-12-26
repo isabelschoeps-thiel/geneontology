@@ -43,4 +43,5 @@ Copyright GitHub repository's by Isabel Schöps geb. Thiel  [Isabel Schöps geb.
 
 ## Acknowledgements
 
-This ontology repository was created using the [Ontology Development Kit](https://github.com/INCATools/ontology-development-kit).
+This ontology repository was created using the [Ontology Development Kit][(https://github.com/INCATools/ontology-development-kit).
+](https://github.com/isabelschoeps-thiel/geneontology/tree/main/Ontology-Development-Kit)
