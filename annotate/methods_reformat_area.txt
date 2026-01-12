@@ -1,8 +1,0 @@
-  "area": "Audio"
-  "area": "Computer Vision"
-  "area": "General"
-  "area": "Graphs"
-  "area": "Natural Language Processing"
-  "area": "Reinforcement Learning"
-  "area": "Sequential"
-  "area": null
