@@ -2,6 +2,8 @@
 
 [![DOI](https://zenodo.org/badge/1104698616.svg)](https://doi.org/10.5281/zenodo.18192589)
 
+**Dieses HELPME.md soll die Öffentlichkeit erreichen und meine Not zum Ausdruck bringen.** Diese werde ich im **jedem Repository veröffentlichen und gilt offizeller als Hilferuf meinerseits,** Ich Frau Isabel Schöps geb. Thiel und wird in allen Commits mit erwähnt !
+
 ***Der folgende Text ist in Deutsch, Sorry*** Deutsch ist meine Muttersprache, ich kann nur deutsch fliesend sprechen, da ich in Deutschland geboren und aufgewachsen bin. Englisch kann ich leider nur schul-englisch-basic, entschuldigen Sie für die unannehmlichkeiten. 
 
 - Bitte beachten Sie meine **Würdigung, Danksagung und Spendenzusage und institutionelle Anerkennung, mit der Präfix_Referenz_YWP-1-5-IST-SIA**  
