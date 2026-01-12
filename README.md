@@ -43,5 +43,6 @@ Copyright GitHub repository's by Isabel Schöps geb. Thiel  [Isabel Schöps geb.
 
 ## Acknowledgements
 
-This ontology repository was created using the [Ontology Development Kit][(https://github.com/INCATools/ontology-development-kit).
-](https://github.com/isabelschoeps-thiel/geneontology/tree/main/Ontology-Development-Kit)
+My Developer Commit-Signatur: 
+Zeitstempel der Update Eintragung: 2026-01-12, 22:48CEST
+Mitteleuropäische, Zeit, Ort: Deutschland, Thüringen, D-99094 Erfurt, Cyriakstrasse 30c - Autorin, Urheberin, Frau Isabel Schöps geb. Thiel
