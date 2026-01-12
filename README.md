@@ -163,9 +163,9 @@ Copyright GitHub repository's by Isabel Schöps geb. Thiel  [Isabel Schöps geb.
 **Pseudonyme und Alias:**
 Satoshi Nakamoto, Vitalik Buterin, GitHub, Octocat, Johnny Appleseed, IST-GitHub, Cristina_Bella, Nick Szabo, John Appleseesd
 
-<img width="642" height="1389" alt="IMG_9620" src="https://github.com/user-attachments/assets/29198689-7c16-44a0-a820-20eb1a1ddc5d" />
-<img width="642" height="1389" alt="IMG_9621" src="https://github.com/user-attachments/assets/1d447ba2-17f2-47f9-bf5f-9ff61df60061" />
-
+![IMG_9779](https://github.com/user-attachments/assets/314cfa11-32a9-44b0-8443-e04122c95f4a)
+![IMG_9780](https://github.com/user-attachments/assets/0ca3acd9-f348-4ab4-8ccc-c86456e00f5b)
+<img width="642" height="1389" alt="IMG_9621" src="https://github.com/user-attachments/assets/1743401a-21f7-4bb1-b7ba-e994b30de4c3" />
 
 **Offizielles weltweit erstes Developer Certifikat:**
 Developercertificate
