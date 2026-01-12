@@ -4,6 +4,19 @@
 Frau Isabel Schöps, geborene Thiel
 Autorin, Urheberin und Auftraggeberin
 
+## das Jahr 2022 - was ist passiert ?
+***Was ist im Jahr 2022 passiert, nicht nur in meinem real-life, auch digitalen Umfeld ist das Jahr 2022 ein breakpoint. Sind folgende Keywords, der Schlüssel für das aufdecken der Straftat und verbrechen gegen die Menschlichkeit***
+- Scheintod Geschäft
+- verkaufte Identitäten und Konten
+- Daten- Missbrauch und Diebstahl
+- VR-Technologie und Deepfake
+- Diebstahl des geistigen Eigebtums
+- Massenmanipulation durch Frequenztechnologie
+- die Lüge lebt, niemand ist tod alle sind am leben
+- wo ist der/die DEEPFAKE
+  
+<img width="642" height="1389" alt="das_jahr_2022_was_ist_passiert?" src="https://github.com/user-attachments/assets/cafbe8ec-a032-4069-a62d-54059abac6af" />
+
 **Rechtscharakter:**
 Eidesstattliche Versicherung, Bestandteil des forensisch, wissenschaftlichen Gutachtens
 
