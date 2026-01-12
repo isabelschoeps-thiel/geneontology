@@ -17,6 +17,7 @@ Autorin, Urheberin und Auftraggeberin
   
 <img width="642" height="1389" alt="das_jahr_2022_was_ist_passiert?" src="https://github.com/user-attachments/assets/cafbe8ec-a032-4069-a62d-54059abac6af" />
 
+## Bitte lesen Sie my HELPME.md
 **Rechtscharakter:**
 Eidesstattliche Versicherung, Bestandteil des forensisch, wissenschaftlichen Gutachtens
 
