@@ -1,8 +1,14 @@
 # Evidence Chain of Custody
 ## My Developer Signatur
 **Signed-on-by:**
+
+[DOI:10.5281/zenodo.18226729](https://doi.org/10.5281/zenodo.18226729)
+
 Frau Isabel Schöps, geborene Thiel
 Autorin, Urheberin und Auftraggeberin
+
+## Harvard Citation:
+**Schöps geb. Thiel, Isabel (2026)** „isabelschoeps-thiel/geneontology: Release Evidence HELPME 1.0“. Zenodo. [doi:10.5281/zenodo.18226730.](https://doi.org/10.5281/zenodo.18226729)
 
 ## das Jahr 2022 - was ist passiert ?
 ***Was ist im Jahr 2022 passiert, nicht nur in meinem real-life, auch digitalen Umfeld ist das Jahr 2022 ein breakpoint. Sind folgende Keywords, der Schlüssel für das aufdecken der Straftat und verbrechen gegen die Menschlichkeit***
