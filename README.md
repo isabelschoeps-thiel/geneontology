@@ -213,7 +213,9 @@ Erstveröffentlichung 2004
 **Ort, Signatur Kürzel, Zeitstempel der Eintragung:**
 Deutschland, Thüringen, D-99094 Erfurt, Cyriakstrasse 30c 
 
-Mitteleuropäische Zeit, 2026-01-12, 22:55CEST 
+<img width="642" height="1389" alt="IMG_9686" src="https://github.com/user-attachments/assets/eccac512-950e-48df-9386-98a964957194" />
+
+# Zeitstempel der Eintragung, Mitteleuropäische Zeit, 2026-01-13, Update 01:38CEST 
 
 **IST - Isabel Schöps Thiel**
 
